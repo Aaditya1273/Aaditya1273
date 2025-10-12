@@ -2,7 +2,7 @@
 <table style="width: 100%;">
   <tr>
     <td style="vertical-align: top; width: 50%;">
-      <h3>A Blockchain Developer, Cybersecurity Enthusiast, Full-Stack Developer and a Tech Enthusiast from INDIA</h3>
+      <h3>A Blockchain Developer, Cybersecurity Enthusiast, Full-Stack Developer and a Tech Aficionado from INDIA</h3>
       <p>
         Enthusiastic about creating engaging and
         dynamic applications while exploring emerging technologies.
