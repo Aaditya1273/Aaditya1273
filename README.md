@@ -10,6 +10,7 @@
         continually enhancing my skills and delivering innovative solutions.
       </p>
       <br/>
+      
 <div align="center">
   <a href="https://discord.com/users/aadi02364" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="40" alt="discord logo" />
@@ -32,7 +33,7 @@
 </div>
     </td>
     <td style="text-align: right; width: 50%;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGg5Y21iNnpsN21oMWRrZTdvZGZkdmEycDExNWZ3N3RkejdoYWx6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IvoysZG4Zn5a4cWBZA/giphy.gif" alt="Animated GIF" width="500" height="500"/>
+      <img src="https://c.tenor.com/DSdjfL8OcyYAAAAd/tenor.gif" alt="Animated GIF" width="500" height="500"/>
     </td>
   </tr>
 </table>
