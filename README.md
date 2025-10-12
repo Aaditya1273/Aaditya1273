@@ -34,7 +34,7 @@
 </div>
     </td>
     <td style="text-align: right; width: 50%;">
-      <img src="https://github.com/user-attachments/assets/9e7a96dc-a15e-402b-8bed-5984a84f61c5" alt="Animated GIF" width="480" height="500"/>
+      <img src="https://github.com/user-attachments/assets/9e7a96dc-a15e-402b-8bed-5984a84f61c5" alt="Animated GIF" width="500" height="480"/>
     </td>
   </tr>
 </table>
