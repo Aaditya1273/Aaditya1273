@@ -53,13 +53,13 @@
 
 <br/>
 
-<div align="center">
+<div >
   <!-- GitHub Stats -->
-  <a href="https://github.com/Aaditya1273?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/?username=Aaditya1273&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=dark&hide_border=false" width="500" height="300" />
+  <a href="https://github.com/Aaditya1273?tab=repositories" >
+    <img align ="top" src="https://github-readme-stats.vercel.app/api/?username=Aaditya1273&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=dark&hide_border=false" width="500" height="400" />
   </a>
   <a href="https://github.com/Aaditya1273">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya1273&layout=compact&theme=dark&langs_count=8" width="450" height="300" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya1273&layout=compact&theme=nightowl&langs_count=6" width="450" height="300" />
   </a>
 </div>
 
@@ -67,7 +67,12 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Aaditya1273&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Aaditya1273&theme=radical&trophy_count=4" alt="GitHub Trophy" />
+  
+  <br/>
+  
+  
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Aaditya1273&theme=nightowl&row=2&no-bg=true&column=9" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya1273&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity graph" />
   
 </div>
