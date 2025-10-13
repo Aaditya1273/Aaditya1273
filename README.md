@@ -18,21 +18,45 @@ From 🇮🇳 India | Building the Future
 
 ---
 
-## 🌟 About Me
+<table style="width: 100%;">
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <h3>A Blockchain Developer, Cybersecurity Enthusiast, Full-Stack Developer and a Tech Aficionado from INDIA</h3>
+      <p>
+        Enthusiastic about creating engaging and
+        dynamic applications while exploring emerging technologies.
+        I love working across both front-end and back-end development, 
+        continually enhancing my skills and delivering innovative solutions.
+      </p>
+      <br/>
+     
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9e7a96dc-a15e-402b-8bed-5984a84f61c5" alt="Aaditya Rawat" width="250" style="border-radius: 20px; border: 3px solid #00ff88; box-shadow: 0 0 30px rgba(0,255,136,0.3);">
+  <a href="https://discord.com/users/aadi02364" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="40" alt="discord logo" />
+  </a>
+  <a href="mailto:aadityaofficial1515@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-rawat-84970b301" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/iocryposto1273" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="40" alt="twitter logo" />
+  </a>
+  <a href="https://t.me/aaditya092" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="42" height="40" alt="telegram logo" />
+  </a>
+  <a href="https://www.youtube.com/@Aaditya1515" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="yt logo" />
+  </a>
 </div>
-
-I'm a **passionate developer** dedicated to creating engaging, dynamic applications while exploring cutting-edge technologies. With expertise spanning **blockchain architecture**, **cybersecurity resilience**, and **full-stack development**, I transform complex challenges into elegant solutions.
-
-### 💡 What I Do Best:
-- 🔐 Build secure, scalable blockchain applications
-- 🛡️ Identify and mitigate cybersecurity vulnerabilities  
-- 🎨 Develop dynamic, user-centric full-stack solutions
-- ⚡ Master emerging frameworks and technologies
-- 🤝 Contribute to open-source communities
-- 📚 Share knowledge and mentor developers
+    </td>
+    <td style="text-align: right; width: 50%;">
+      <img src="https://github.com/user-attachments/assets/9e7a96dc-a15e-402b-8bed-5984a84f61c5" alt="Animated GIF" width="500" height="560"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
