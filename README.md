@@ -1,596 +1,271 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aaditya Rawat - GitHub Profile</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+# <div align="center">
+# 
+# ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF88&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+I'm+Aaditya+Rawat;Blockchain+Developer;Cybersecurity+Enthusiast;Full-Stack+Developer;Tech+Innovator)
+#
+# </div>
 
-        body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #0f0c29, #302b63, #24243e);
-            color: #e0e0e0;
-            overflow-x: hidden;
-            line-height: 1.6;
-        }
+---
 
-        /* Animated Background */
-        .animated-bg {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: 
-                radial-gradient(circle at 20% 50%, rgba(0, 255, 136, 0.1) 0%, transparent 50%),
-                radial-gradient(circle at 80% 80%, rgba(0, 150, 255, 0.1) 0%, transparent 50%);
-            animation: gradientShift 15s ease infinite;
-            z-index: -1;
-            pointer-events: none;
-        }
+<div align="center">
 
-        @keyframes gradientShift {
-            0%, 100% { transform: translate(0, 0); }
-            50% { transform: translate(30px, -30px); }
-        }
+### 🚀 Transforming Ideas Into Reality With Code
 
-        /* Floating particles */
-        .particles {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            z-index: -1;
-            overflow: hidden;
-            pointer-events: none;
-        }
+**Blockchain Developer** • **Cybersecurity Expert** • **Full-Stack Developer** • **Tech Aficionado**
 
-        .particle {
-            position: absolute;
-            width: 4px;
-            height: 4px;
-            background: rgba(0, 255, 136, 0.5);
-            border-radius: 50%;
-            animation: float linear infinite;
-        }
+From 🇮🇳 India | Building the Future
 
-        @keyframes float {
-            0% {
-                transform: translateY(100vh) translateX(0) rotate(0deg);
-                opacity: 1;
-            }
-            100% {
-                transform: translateY(-100vh) translateX(100px) rotate(360deg);
-                opacity: 0;
-            }
-        }
+</div>
 
-        /* Main container */
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 40px 20px;
-            position: relative;
-            z-index: 1;
-        }
+---
 
-        /* Header Section */
-        .header {
-            text-align: center;
-            margin-bottom: 80px;
-            animation: slideDownFade 0.8s ease-out;
-        }
+## 🌟 About Me
 
-        @keyframes slideDownFade {
-            from {
-                opacity: 0;
-                transform: translateY(-30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/9e7a96dc-a15e-402b-8bed-5984a84f61c5" alt="Aaditya Rawat" width="250" style="border-radius: 20px; border: 3px solid #00ff88; box-shadow: 0 0 30px rgba(0,255,136,0.3);">
+</div>
 
-        .header h1 {
-            font-size: 4em;
-            background: linear-gradient(135deg, #00ff88, #00d4ff, #ff006e);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-            margin-bottom: 10px;
-            animation: glow 3s ease-in-out infinite;
-        }
+I'm a **passionate developer** dedicated to creating engaging, dynamic applications while exploring cutting-edge technologies. With expertise spanning **blockchain architecture**, **cybersecurity resilience**, and **full-stack development**, I transform complex challenges into elegant solutions.
 
-        @keyframes glow {
-            0%, 100% { filter: drop-shadow(0 0 10px rgba(0, 255, 136, 0.3)); }
-            50% { filter: drop-shadow(0 0 25px rgba(0, 212, 255, 0.6)); }
-        }
+### 💡 What I Do Best:
+- 🔐 Build secure, scalable blockchain applications
+- 🛡️ Identify and mitigate cybersecurity vulnerabilities  
+- 🎨 Develop dynamic, user-centric full-stack solutions
+- ⚡ Master emerging frameworks and technologies
+- 🤝 Contribute to open-source communities
+- 📚 Share knowledge and mentor developers
 
-        .subtitle {
-            font-size: 1.3em;
-            color: #00ff88;
-            margin-bottom: 20px;
-            letter-spacing: 1px;
-            animation: fadeInUp 1s ease-out 0.3s both;
-        }
+---
 
-        .tagline {
-            font-size: 1em;
-            color: #b0b0b0;
-            margin-bottom: 30px;
-            animation: fadeInUp 1s ease-out 0.5s both;
-        }
+## 🛠️ Tech Arsenal
 
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
+<div align="center">
 
-        /* Social Links */
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 15px;
-            margin-bottom: 60px;
-            flex-wrap: wrap;
-            animation: fadeInUp 1s ease-out 0.7s both;
-        }
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-        .social-btn {
-            width: 50px;
-            height: 50px;
-            border-radius: 50%;
-            background: rgba(0, 255, 136, 0.1);
-            border: 2px solid #00ff88;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 1.5em;
-            transition: all 0.3s ease;
-            cursor: pointer;
-            position: relative;
-            overflow: hidden;
-        }
+### Backend & Databases
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-        .social-btn::before {
-            content: '';
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            width: 0;
-            height: 0;
-            background: rgba(0, 255, 136, 0.3);
-            border-radius: 50%;
-            transform: translate(-50%, -50%);
-            transition: width 0.6s, height 0.6s;
-        }
+### Blockchain & Web3
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 
-        .social-btn:hover::before {
-            width: 300px;
-            height: 300px;
-        }
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-        .social-btn:hover {
-            transform: translateY(-5px) scale(1.1);
-            box-shadow: 0 10px 30px rgba(0, 255, 136, 0.4);
-            color: #00ff88;
-        }
+### Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
-        /* Sections */
-        .section {
-            background: rgba(48, 43, 99, 0.3);
-            backdrop-filter: blur(10px);
-            border: 1px solid rgba(0, 255, 136, 0.2);
-            border-radius: 15px;
-            padding: 40px;
-            margin-bottom: 40px;
-            animation: slideInFade 0.8s ease-out;
-            transition: all 0.3s ease;
-        }
+</div>
 
-        @keyframes slideInFade {
-            from {
-                opacity: 0;
-                transform: translateX(-20px);
-            }
-            to {
-                opacity: 1;
-                transform: translateX(0);
-            }
-        }
+---
 
-        .section:hover {
-            border-color: rgba(0, 255, 136, 0.5);
-            box-shadow: 0 10px 40px rgba(0, 255, 136, 0.1);
-            transform: translateY(-5px);
-        }
+## 📊 GitHub Statistics
 
-        .section h2 {
-            font-size: 2em;
-            color: #00ff88;
-            margin-bottom: 30px;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            position: relative;
-            padding-bottom: 15px;
-        }
+<div align="center">
 
-        .section h2::after {
-            content: '';
-            flex-grow: 1;
-            height: 2px;
-            background: linear-gradient(90deg, #00ff88, transparent);
-        }
+### 📈 My GitHub Activity
 
-        /* Tech Stack Grid */
-        .tech-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aaditya1273&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c0c0c0&include_all_commits=true&count_private=true)
 
-        .tech-item {
-            background: rgba(0, 255, 136, 0.05);
-            border: 2px solid rgba(0, 255, 136, 0.3);
-            padding: 20px;
-            border-radius: 10px;
-            text-align: center;
-            transition: all 0.3s ease;
-            cursor: pointer;
-            position: relative;
-            overflow: hidden;
-        }
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya1273&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c0c0c0&langs_count=8)
 
-        .tech-item::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: linear-gradient(135deg, transparent, rgba(0, 255, 136, 0.2), transparent);
-            animation: shine 3s infinite;
-            transform: rotate(45deg);
-        }
+### 🔥 GitHub Streak
 
-        @keyframes shine {
-            0% { transform: translateX(-100%) translateY(-100%) rotate(45deg); }
-            100% { transform: translateX(100%) translateY(100%) rotate(45deg); }
-        }
+![GitHub Streak](https://streak-stats.demolab.com?user=Aaditya1273&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
 
-        .tech-item:hover {
-            border-color: #00ff88;
-            background: rgba(0, 255, 136, 0.1);
-            transform: translateY(-10px) scale(1.05);
-            box-shadow: 0 15px 40px rgba(0, 255, 136, 0.2);
-        }
+### 🏆 GitHub Trophies
 
-        .tech-item span {
-            position: relative;
-            z-index: 1;
-            font-weight: 600;
-            color: #00ff88;
-        }
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Aaditya1273&theme=matrix&no-frame=true&column=4&row=2)
 
-        /* Stats Section */
-        .stats-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 30px;
-            margin: 40px 0;
-        }
+### 📅 Contribution Graph
 
-        .stat-card {
-            background: linear-gradient(135deg, rgba(0, 255, 136, 0.1), rgba(0, 150, 255, 0.1));
-            border: 2px solid rgba(0, 255, 136, 0.3);
-            padding: 30px;
-            border-radius: 15px;
-            text-align: center;
-            transition: all 0.3s ease;
-            position: relative;
-            overflow: hidden;
-        }
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aaditya1273&theme=nightowl&area=true&hide_border=true&line_height=30&radius=10&custom_title=Aaditya%20Rawat%20GitHub%20Activity&title_color=00ff88)
 
-        .stat-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: -100%;
-            width: 100%;
-            height: 100%;
-            background: linear-gradient(90deg, transparent, rgba(0, 255, 136, 0.2), transparent);
-            animation: shimmer 2s infinite;
-        }
+</div>
 
-        @keyframes shimmer {
-            0% { left: -100%; }
-            100% { left: 100%; }
-        }
+---
 
-        .stat-card:hover {
-            transform: translateY(-15px);
-            box-shadow: 0 20px 50px rgba(0, 255, 136, 0.2);
-            border-color: #00ff88;
-        }
+## 🎯 Key Projects & Highlights
 
-        .stat-number {
-            font-size: 2.5em;
-            color: #00ff88;
-            font-weight: bold;
-            margin-bottom: 10px;
-            position: relative;
-            z-index: 1;
-        }
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🚀 Blockchain Innovations</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge">
+</p>
+<ul>
+<li>DeFi Protocol Development</li>
+<li>Smart Contract Auditing</li>
+<li>Web3 Integration</li>
+<li>NFT Marketplace</li>
+</ul>
+</td>
+<td width="50%">
+<h3 align="center">🛡️ Security Solutions</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge">
+</p>
+<ul>
+<li>Vulnerability Assessment</li>
+<li>Penetration Testing</li>
+<li>Code Security Audit</li>
+<li>Risk Analysis</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">💻 Full-Stack Apps</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge">
+</p>
+<ul>
+<li>MERN Stack Applications</li>
+<li>Real-time Systems</li>
+<li>Cloud Solutions</li>
+<li>Mobile Integration</li>
+</ul>
+</td>
+<td width="50%">
+<h3 align="center">🎓 Open Source</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge">
+</p>
+<ul>
+<li>Community Contributions</li>
+<li>Tutorial Creation</li>
+<li>Documentation</li>
+<li>Mentoring</li>
+</ul>
+</td>
+</tr>
+</table>
 
-        .stat-label {
-            color: #b0b0b0;
-            font-size: 1em;
-            position: relative;
-            z-index: 1;
-        }
+---
 
-        /* About Section */
-        .about-content {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 40px;
-            align-items: center;
-        }
+## 🔗 Connect With Me
 
-        .about-text h3 {
-            color: #00ff88;
-            margin: 20px 0 10px 0;
-            font-size: 1.3em;
-        }
+<div align="center">
 
-        .about-text p {
-            color: #c0c0c0;
-            margin-bottom: 15px;
-            line-height: 1.8;
-        }
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-rawat-84970b301)](https://www.linkedin.com/in/aditya-rawat-84970b301)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://x.com/iocryposto1273)](https://x.com/iocryposto1273)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Aaditya1273)](https://github.com/Aaditya1273)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/@Aaditya1515)](https://www.youtube.com/@Aaditya1515)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/aaditya092)](https://t.me/aaditya092)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/aadi02364)](https://discord.com/users/aadi02364)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aadityaofficial1515@gmail.com)](mailto:aadityaofficial1515@gmail.com)
 
-        .about-list {
-            list-style: none;
-            margin-top: 20px;
-        }
+</div>
 
-        .about-list li {
-            color: #b0b0b0;
-            margin: 12px 0;
-            padding-left: 30px;
-            position: relative;
-            transition: all 0.3s ease;
-        }
+---
 
-        .about-list li::before {
-            content: '▸';
-            color: #00ff88;
-            position: absolute;
-            left: 0;
-            font-weight: bold;
-        }
+## 💼 Services & Expertise
 
-        .about-list li:hover {
-            color: #00ff88;
-            padding-left: 40px;
-        }
+<div align="center">
 
-        .about-image {
-            text-align: center;
-        }
+| 🔐 | 🛡️ | ⚡ | 📊 |
+|:---:|:---:|:---:|:---:|
+| **Blockchain Development** | **Security Auditing** | **Performance Optimization** | **Analytics & Insights** |
+| DeFi, Smart Contracts, Web3 | Code Review, Penetration Testing | System Optimization, Scaling | Data-Driven Solutions |
 
-        .about-image img {
-            max-width: 100%;
-            border-radius: 15px;
-            border: 3px solid #00ff88;
-            box-shadow: 0 0 30px rgba(0, 255, 136, 0.3);
-            animation: float 3s ease-in-out infinite;
-        }
+</div>
 
-        @keyframes float {
-            0%, 100% { transform: translateY(0px); }
-            50% { transform: translateY(-20px); }
-        }
+---
 
-        /* Footer */
-        .footer {
-            text-align: center;
-            padding: 40px;
-            border-top: 2px solid rgba(0, 255, 136, 0.2);
-            margin-top: 60px;
-            animation: fadeInUp 1s ease-out 1s both;
-        }
+## 📈 Development Metrics
 
-        .footer p {
-            color: #b0b0b0;
-            margin: 10px 0;
-        }
+<div align="center">
 
-        .cta-button {
-            display: inline-block;
-            background: linear-gradient(135deg, #00ff88, #00d4ff);
-            color: #0f0c29;
-            padding: 15px 40px;
-            border-radius: 50px;
-            text-decoration: none;
-            font-weight: 600;
-            margin-top: 20px;
-            transition: all 0.3s ease;
-            border: none;
-            cursor: pointer;
-            box-shadow: 0 10px 30px rgba(0, 255, 136, 0.3);
-        }
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                    DEVELOPMENT PROFILE                        ║
+╠═══════════════════════════════════════════════════════════════╣
+║  🎯 Repositories:     50+                                     ║
+║  ⭐ Stars Earned:     500+                                    ║
+║  🔥 Contributions:    1000+ (This Year)                       ║
+║  📚 Languages:        15+                                     ║
+║  🏆 Projects:         25+ (Completed & Active)                ║
+║  👥 Followers:        Growing Community                       ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-        .cta-button:hover {
-            transform: translateY(-3px);
-            box-shadow: 0 15px 40px rgba(0, 255, 136, 0.5);
-        }
+</div>
 
-        /* Responsive */
-        @media (max-width: 768px) {
-            .header h1 { font-size: 2.5em; }
-            .about-content { grid-template-columns: 1fr; }
-            .tech-grid { grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); }
-            .section { padding: 25px; }
-        }
-    </style>
-</head>
-<body>
-    <div class="animated-bg"></div>
-    <div class="particles" id="particles"></div>
+---
 
-    <div class="container">
-        <!-- Header -->
-        <div class="header">
-            <h1>👋 Aaditya Rawat</h1>
-            <p class="subtitle">🚀 Blockchain Developer | Cybersecurity Enthusiast | Full-Stack Developer</p>
-            <p class="tagline">Crafting innovative solutions with cutting-edge technology | From India 🇮🇳</p>
-            
-            <div class="social-links">
-                <a href="https://github.com/Aaditya1273" class="social-btn" title="GitHub">🐙</a>
-                <a href="https://www.linkedin.com/in/aditya-rawat-84970b301" class="social-btn" title="LinkedIn">💼</a>
-                <a href="https://x.com/iocryposto1273" class="social-btn" title="Twitter">𝕏</a>
-                <a href="https://www.youtube.com/@Aaditya1515" class="social-btn" title="YouTube">📺</a>
-                <a href="https://t.me/aaditya092" class="social-btn" title="Telegram">✈️</a>
-                <a href="https://discord.com/users/aadi02364" class="social-btn" title="Discord">🎮</a>
-                <a href="mailto:aadityaofficial1515@gmail.com" class="social-btn" title="Email">📧</a>
-            </div>
-        </div>
+## 🎓 Continuous Learning
 
-        <!-- About Section -->
-        <div class="section">
-            <h2>💫 About Me</h2>
-            <div class="about-content">
-                <div class="about-text">
-                    <p>I'm a passionate developer dedicated to creating engaging and dynamic applications. With expertise across blockchain, cybersecurity, and full-stack development, I'm constantly exploring emerging technologies and pushing the boundaries of what's possible.</p>
-                    <h3>🎯 What I Excel At:</h3>
-                    <ul class="about-list">
-                        <li>Building secure, scalable blockchain applications</li>
-                        <li>Identifying and mitigating cybersecurity vulnerabilities</li>
-                        <li>Developing dynamic full-stack solutions</li>
-                        <li>Mastering cutting-edge frameworks and tools</li>
-                        <li>Contributing to open-source communities</li>
-                        <li>Mentoring and sharing knowledge</li>
-                    </ul>
-                </div>
-                <div class="about-image">
-                    <img src="https://github.com/user-attachments/assets/9e7a96dc-a15e-402b-8bed-5984a84f61c5" alt="Aaditya">
-                </div>
-            </div>
-        </div>
+<div align="center">
 
-        <!-- Tech Stack -->
-        <div class="section">
-            <h2>💻 Tech Arsenal</h2>
-            <div class="tech-grid">
-                <div class="tech-item"><span>JavaScript</span></div>
-                <div class="tech-item"><span>TypeScript</span></div>
-                <div class="tech-item"><span>Python</span></div>
-                <div class="tech-item"><span>React</span></div>
-                <div class="tech-item"><span>Django</span></div>
-                <div class="tech-item"><span>Node.js</span></div>
-                <div class="tech-item"><span>MongoDB</span></div>
-                <div class="tech-item"><span>PostgreSQL</span></div>
-                <div class="tech-item"><span>AWS</span></div>
-                <div class="tech-item"><span>Docker</span></div>
-                <div class="tech-item"><span>Solidity</span></div>
-                <div class="tech-item"><span>Web3</span></div>
-                <div class="tech-item"><span>C++</span></div>
-                <div class="tech-item"><span>Redux</span></div>
-                <div class="tech-item"><span>Git</span></div>
-                <div class="tech-item"><span>Figma</span></div>
-            </div>
-        </div>
+![Learning](https://img.shields.io/badge/Always%20Learning-00ff88?style=for-the-badge&label=Status)
+![Open%20to%20Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-00d4ff?style=for-the-badge&label=Status)
+![Available%20for%20Projects](https://img.shields.io/badge/Available%20for%20Projects-ff006e?style=for-the-badge&label=Status)
 
-        <!-- Stats -->
-        <div class="section">
-            <h2>📊 GitHub Analytics</h2>
-            <div class="stats-container">
-                <div class="stat-card">
-                    <div class="stat-number">50+</div>
-                    <div class="stat-label">Public Repositories</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">1000+</div>
-                    <div class="stat-label">GitHub Contributions</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">10+</div>
-                    <div class="stat-label">Years Experience</div>
-                </div>
-            </div>
-            <div style="text-align: center; margin-top: 40px;">
-                <img src="https://github-readme-stats.vercel.app/api?username=Aaditya1273&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c0c0c0" alt="GitHub Stats" style="border-radius: 10px; max-width: 100%; margin-bottom: 20px;">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aaditya1273&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c0c0c0" alt="Top Languages" style="border-radius: 10px; max-width: 100%;">
-            </div>
-        </div>
+</div>
 
-        <!-- Call to Action -->
-        <div class="section" style="text-align: center;">
-            <h2>🌟 Let's Build Something Amazing!</h2>
-            <p style="color: #c0c0c0; font-size: 1.1em; margin: 20px 0;">I'm always open to exciting collaborations and innovative projects. Let's connect and create something extraordinary together!</p>
-            <button class="cta-button">Get In Touch 🚀</button>
-        </div>
+---
 
-        <!-- Footer -->
-        <div class="footer">
-            <p>💡 "Code is poetry written in logic"</p>
-            <p style="margin-top: 20px; font-size: 0.9em; color: #808080;">© 2024 Aaditya Rawat. All rights reserved. | Crafted with ❤️ and ☕</p>
-        </div>
-    </div>
+## 🚀 Let's Build Something Amazing!
 
-    <script>
-        // Create floating particles
-        function createParticles() {
-            const particlesContainer = document.getElementById('particles');
-            for (let i = 0; i < 30; i++) {
-                const particle = document.createElement('div');
-                particle.className = 'particle';
-                particle.style.left = Math.random() * 100 + '%';
-                particle.style.animationDuration = (Math.random() * 20 + 10) + 's';
-                particle.style.animationDelay = Math.random() * 5 + 's';
-                particlesContainer.appendChild(particle);
-            }
-        }
+<div align="center">
 
-        // Initialize
-        createParticles();
+### I'm always excited about:
+- 💡 Innovative tech solutions
+- 🤝 Meaningful collaborations
+- 🌱 Mentoring & Knowledge Sharing
+- 🔬 Emerging Technologies
+- 🎯 Challenging Projects
 
-        // Add click animation to buttons
-        document.querySelectorAll('.cta-button, .social-btn').forEach(btn => {
-            btn.addEventListener('click', function(e) {
-                const ripple = document.createElement('span');
-                ripple.style.position = 'absolute';
-                ripple.style.borderRadius = '50%';
-                ripple.style.background = 'rgba(255, 255, 255, 0.5)';
-                ripple.style.pointerEvents = 'none';
-                this.appendChild(ripple);
-            });
-        });
+**Let's connect and create something extraordinary together!**
 
-        // Smooth scroll
-        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-            anchor.addEventListener('click', function(e) {
-                e.preventDefault();
-                const target = document.querySelector(this.getAttribute('href'));
-                if (target) target.scrollIntoView({ behavior: 'smooth' });
-            });
-        });
-    </script>
-</body>
-</html>
+[![Open to Opportunities](https://img.shields.io/badge/💼%20Open%20to%20Opportunities-Click%20to%20Connect-00ff88?style=for-the-badge&link=mailto:aadityaofficial1515@gmail.com)](mailto:aadityaofficial1515@gmail.com)
+
+</div>
+
+---
+
+## 📊 Visitor Analytics
+
+<div align="center">
+
+![Visitors](https://moe-counter.glitch.me/get/@Aaditya1273?theme=rule34)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Quote of the Day
+
+> *"Code is poetry written in logic"* 
+
+### 🌟 Thanks for visiting! Don't forget to ⭐ if you found this useful!
+
+**© 2024 Aaditya Rawat • Crafted with ❤️ and ☕**
+
+</div>
+
+---
+
+<div align="center">
+  
+![Footer Wave](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+</div>
