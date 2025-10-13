@@ -70,6 +70,7 @@
   <br>
   <br>
   <img src="https://streak-stats.demolab.com?user=Aaditya1273&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
+  <br>
 <img src="https://github-profile-trophy.vercel.app/?username=Aaditya1273&theme=matrix&column=3" alt="GitHub Trophy" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya1273&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
