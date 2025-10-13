@@ -31,7 +31,7 @@
   </div>
 </td>
 <td style="text-align: right; width: 50%;">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Hacker GIF" width="500" height="560"/>
+  <img src="https://github.com/user-attachments/assets/9e7a96dc-a15e-402b-8bed-5984a84f61c5" alt="Hacker GIF" width="500" height="560"/>
 </td>
     
   </tr>
@@ -56,10 +56,10 @@
 <div >
   <!-- GitHub Stats -->
   <a href="https://github.com/Aaditya1273?tab=repositories" >
-    <img align ="top" src="https://github-readme-stats.vercel.app/api/?username=Aaditya1273&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=dark&hide_border=false" width="500" height="400" />
+    <img align ="top" src="https://github-readme-stats.vercel.app/api/?username=Aaditya1273&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=nightowl&hide_border=false" width="500" height="400" />
   </a>
   <a href="https://github.com/Aaditya1273">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya1273&layout=compact&theme=nightowl&langs_count=6" width="450" height="300" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya1273&layout=compact&theme=nightowl&langs_count=10" width="450" height="300" />
   </a>
 </div>
 
