@@ -124,62 +124,6 @@ From 🇮🇳 India | Building the Future
 
 ---
 
-## 🎯 Key Projects & Highlights
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🚀 Blockchain Innovations</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge">
-</p>
-<ul>
-<li>DeFi Protocol Development</li>
-<li>Smart Contract Auditing</li>
-<li>Web3 Integration</li>
-<li>NFT Marketplace</li>
-</ul>
-</td>
-<td width="50%">
-<h3 align="center">🛡️ Security Solutions</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge">
-</p>
-<ul>
-<li>Vulnerability Assessment</li>
-<li>Penetration Testing</li>
-<li>Code Security Audit</li>
-<li>Risk Analysis</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">💻 Full-Stack Apps</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge">
-</p>
-<ul>
-<li>MERN Stack Applications</li>
-<li>Real-time Systems</li>
-<li>Cloud Solutions</li>
-<li>Mobile Integration</li>
-</ul>
-</td>
-<td width="50%">
-<h3 align="center">🎓 Open Source</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Status-Active-00ff88?style=for-the-badge">
-</p>
-<ul>
-<li>Community Contributions</li>
-<li>Tutorial Creation</li>
-<li>Documentation</li>
-<li>Mentoring</li>
-</ul>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -197,70 +141,7 @@ From 🇮🇳 India | Building the Future
 
 </div>
 
----
 
-## 💼 Services & Expertise
-
-<div align="center">
-
-| 🔐 | 🛡️ | ⚡ | 📊 |
-|:---:|:---:|:---:|:---:|
-| **Blockchain Development** | **Security Auditing** | **Performance Optimization** | **Analytics & Insights** |
-| DeFi, Smart Contracts, Web3 | Code Review, Penetration Testing | System Optimization, Scaling | Data-Driven Solutions |
-
-</div>
-
----
-
-## 📈 Development Metrics
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                    DEVELOPMENT PROFILE                        ║
-╠═══════════════════════════════════════════════════════════════╣
-║  🎯 Repositories:     50+                                     ║
-║  ⭐ Stars Earned:     500+                                    ║
-║  🔥 Contributions:    1000+ (This Year)                       ║
-║  📚 Languages:        15+                                     ║
-║  🏆 Projects:         25+ (Completed & Active)                ║
-║  👥 Followers:        Growing Community                       ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🎓 Continuous Learning
-
-<div align="center">
-
-![Learning](https://img.shields.io/badge/Always%20Learning-00ff88?style=for-the-badge&label=Status)
-![Open%20to%20Collaborate](https://img.shields.io/badge/Open%20to%20Collaborate-00d4ff?style=for-the-badge&label=Status)
-![Available%20for%20Projects](https://img.shields.io/badge/Available%20for%20Projects-ff006e?style=for-the-badge&label=Status)
-
-</div>
-
----
-
-## 🚀 Let's Build Something Amazing!
-
-<div align="center">
-
-### I'm always excited about:
-- 💡 Innovative tech solutions
-- 🤝 Meaningful collaborations
-- 🌱 Mentoring & Knowledge Sharing
-- 🔬 Emerging Technologies
-- 🎯 Challenging Projects
-
-**Let's connect and create something extraordinary together!**
-
-[![Open to Opportunities](https://img.shields.io/badge/💼%20Open%20to%20Opportunities-Click%20to%20Connect-00ff88?style=for-the-badge&link=mailto:aadityaofficial1515@gmail.com)](mailto:aadityaofficial1515@gmail.com)
-
-</div>
 
 ---
 
@@ -272,24 +153,3 @@ From 🇮🇳 India | Building the Future
 
 </div>
 
----
-
-<div align="center">
-
-### 💬 Quote of the Day
-
-> *"Code is poetry written in logic"* 
-
-### 🌟 Thanks for visiting! Don't forget to ⭐ if you found this useful!
-
-**© 2024 Aaditya Rawat • Crafted with ❤️ and ☕**
-
-</div>
-
----
-
-<div align="center">
-  
-![Footer Wave](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-</div>
