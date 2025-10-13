@@ -1,113 +1,98 @@
-<h1 align="center">Hi 👋, I am Aaditya Rawat</h1>
-<table style="width: 100%;">
-  <tr>
-    <td style="vertical-align: top; width: 50%;">
-      <h3>A Blockchain Developer, Cybersecurity Enthusiast, Full-Stack Developer and a Tech Aficionado from INDIA</h3>
-      <p>
-        Enthusiastic about creating engaging and
-        dynamic applications while exploring emerging technologies.
-        I love working across both front-end and back-end development, 
-        continually enhancing my skills and delivering innovative solutions.
-      </p>
-      <br/>
-     
+# 👋 Hey, I'm Aaditya Rawat
+
+**Blockchain Developer | Cybersecurity Enthusiast | Full-Stack Developer | Tech Innovator**
+
+---
+
+## 🚀 About Me
+
+I'm a passionate developer from India with a deep interest in emerging technologies and innovative solutions. I craft engaging applications across the full stack—from responsive front-end experiences to robust back-end systems. Whether it's blockchain architecture, cybersecurity challenges, or creative web development, I'm driven by curiosity and a commitment to continuous improvement.
+
+**What I love doing:**
+- Building secure, scalable blockchain applications
+- Exploring cybersecurity vulnerabilities and solutions
+- Developing dynamic full-stack applications that solve real problems
+- Experimenting with cutting-edge technologies
+- Contributing to open-source projects
+
+---
+
+## 💻 Tech Stack
+
+**Languages:**  
+JavaScript • TypeScript • Python • C++ • C • Scala
+
+**Frontend:**  
+React • Redux • HTML5 • CSS3 • Figma
+
+**Backend:**  
+Django • Node.js
+
+**Databases:**  
+MongoDB • MySQL • SQLite
+
+**Tools & Platforms:**  
+Git • GitHub • Jupyter Notebook
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://discord.com/users/aadi02364" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="40" alt="discord logo" />
-  </a>
-  <a href="mailto:aadityaofficial1515@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-rawat-84970b301" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/iocryposto1273" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://t.me/aaditya092" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="42" height="40" alt="telegram logo" />
-  </a>
-  <a href="https://www.youtube.com/@Aaditya1515" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="yt logo" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/?username=Aaditya1273&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya1273&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" width="450" />
 </div>
-    </td>
-    <td style="text-align: right; width: 50%;">
-      <img src="https://github.com/user-attachments/assets/9e7a96dc-a15e-402b-8bed-5984a84f61c5" alt="Animated GIF" width="500" height="560"/>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg"  width="80" height="80" alt="javascript logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css3 logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="python logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="html5 logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="mongodb logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="65" height="65" alt="sqllite logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="mysql logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="cplusplus logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="65" height="65" alt="redux logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" alt="django logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="65" height="65" alt="c logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="80" height="80" alt="typescript logo"  />
-  <img width="11" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" alt="react logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" alt="figma logo"  />
-  <img width="11" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="65" height="65" alt="jupyter logo"  />
-  <img width="11" />
-  <img src="https://imgs.search.brave.com/TGmEQZBLfzt8COMRcH7TFt8IM2pcfKJ3fXdocfgae7U/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvNjEzMi82MTMy/MjIwLnBuZw" width="65" height="65" alt="scala logo"  />
+  <img src="https://streak-stats.demolab.com?user=Aaditya1273&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" alt="GitHub Streak" height="200" />
 </div>
-<br>
+
 <div align="center">
-<p align="center">
-  <a href="https://github.com/Aaditya1273?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/?username=Aaditya1273&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=radical" width=500 height=600 />
-<br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aaditya1273&theme=matrix&no-frame=true&no-bg=true&column=4&row=2" alt="GitHub Trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya1273&radius=16&theme=nightowl&area=true&hide_title=false&line_height=30" alt="Activity Graph" height="320" />
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aditya-rawat-84970b301">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-<br>
+  <a href="https://x.com/iocryposto1273">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
   <a href="https://github.com/Aaditya1273">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaditya1273&layout=compact&theme=radical&langs_count=6" width=400 />
-<br>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-
-  <br>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Aaditya1273&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=Aaditya1273&theme=matrix" alt="GitHub Trophy" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya1273&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+  <a href="https://www.youtube.com/@Aaditya1515">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://t.me/aaditya092">
+    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discord.com/users/aadi02364">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:aadityaofficial1515@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
-###
-###
+---
 
-###
+## 📈 Visitor Count
 
-
-<!-- Certifications -->
-
-<!-- <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" width="200">
-<img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" width="200 > -->
-<!-- Profile Views Counter -->
 <div align="center">
-   <p align="left" style:color="Green"><b>Visitor count</b></p>
-  <img src="https://moe-counter.glitch.me/get/@Aaditya1273?theme=rule34" />
+  <img src="https://moe-counter.glitch.me/get/@Aaditya1273?theme=rule34" alt="Visitor Counter" />
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ If you find my work interesting, feel free to star my repositories and reach out!</i>
 </div>
