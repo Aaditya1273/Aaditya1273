@@ -62,21 +62,16 @@ From 🇮🇳 India | Building the Future
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<div >
 
-### Languages & Frameworks
 <img src="https://skillicons.dev/icons?i=javascript,typescript,python,react,nodejs" alt="Languages & Frameworks"/>
 
-### Backend & Databases
 <img src="https://skillicons.dev/icons?i=django,mongodb,postgresql,mysql,sqlite" alt="Backend & Databases"/>
 
-### Blockchain & Web3
 <img src="https://skillicons.dev/icons?i=solidity,ethereum" alt="Blockchain & Web3"/>
 
-### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,docker,aws,figma" alt="Tools & Platforms"/>
 
-### Additional Languages
 <img src="https://skillicons.dev/icons?i=cpp,c" alt="Additional Languages"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
 
 </div>
