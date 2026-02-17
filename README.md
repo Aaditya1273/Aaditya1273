@@ -81,7 +81,7 @@
 
 <div align="center">
   <p style="color:#00FFEF;"><b>Visitor Count</b></p>
-  <img src="https://moe-counter.glitch.me/get/@Aaditya1273?theme=cyberpunk" />
+  <img src="https://count.getloli.com/@:Aaditya1273?theme=cyberpunk" />
 </div>
 
 
