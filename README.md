@@ -84,4 +84,10 @@
   <img src="https://count.getloli.com/@:Aaditya1273?theme=cyberpunk" />
 </div>
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:011627,30:7E57C2,60:00B4D8,100:011627&height=120&section=footer&animation=twinkling" width="100%" />
+
+</div>
+
 
