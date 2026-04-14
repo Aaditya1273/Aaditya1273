@@ -53,22 +53,36 @@
 
 <br/>
 
+
+## GitHub Statistics
+
+
 <div align="center">
-<p align="center">
-  <a href="https://github.com/Aaditya1273?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/?username=Aaditya1273&show_icons=true&hide=contribs&count_private=true&include_all_commits=true&theme=radical" width=500 height=600 />
-<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aaditya1273&theme=github_dark" height="180"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aaditya1273&theme=github_dark" height="180"/>
+
+</div>
+
+
+
 
 </p>
 
-
+<div align="center">
   <br>
   <br>
   <img src="https://streak-stats.demolab.com?user=Aaditya1273&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
   <br>
+  </div>
+
   <p><br></p>
+<div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaditya1273&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
+</div>
+
 </div>
 
 <br/>
