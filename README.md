@@ -1,4 +1,4 @@
-<h1 align="center">👾 Hi, I am Aaditya Rawat hi</h1>
+<h1 align="center">👾 Hi, I am Aaditya Rawat </h1>
 
 <table style="width:100%;">
   <tr>
