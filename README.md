@@ -246,7 +246,7 @@ I'm a **Web3 Protocol Engineer** and **Systems Security Researcher** building au
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aaditya1273&theme=tokyonight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" height="180"/>
+<img src="https://streak-stats.demolab.com?user=Aaditya1273&theme=dark&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" height="180"/>
 
 </div>
 
