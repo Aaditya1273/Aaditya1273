@@ -123,7 +123,7 @@ I'm a **Web3 Protocol Engineer** and **Systems Security Researcher** building au
       <h3><a href="https://github.com/Aaditya1273/GhostPay">GhostPay</a></h3>
       <p>Privacy-preserving payment rail providing stealth addresses and gasless transfers for frictionless Web3 transactions without exposing user wallet history.</p>
       <p>
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Move%20%7C%20Sui-6B21A8?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
         <img src="https://img.shields.io/badge/Privacy-000000?style=flat-square&logoColor=white"/>
       </p>
@@ -133,6 +133,7 @@ I'm a **Web3 Protocol Engineer** and **Systems Security Researcher** building au
       <h3><a href="https://github.com/Aaditya1273/Argus">Argus</a></h3>
       <p>Web3 security and threat detection engine monitoring smart contract execution logs in real-time to alert on anomalous transactions, reentrancy risks, and exploit patterns.</p>
       <p>
+        <img src="https://img.shields.io/badge/SigNoz-6B21A8?style=flat-square&logoColor=white"/>    
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
         <img src="https://img.shields.io/badge/Security-DC322F?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/Web3 Audit-7C3AED?style=flat-square&logoColor=white"/>
@@ -169,7 +170,7 @@ I'm a **Web3 Protocol Engineer** and **Systems Security Researcher** building au
 
 ---
 
-## Tech Stack & Tooling
+## Tech Stack
 
 <div align="center">
 
@@ -181,40 +182,65 @@ I'm a **Web3 Protocol Engineer** and **Systems Security Researcher** building au
   <tr>
     <td><b>Languages</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=go,ts,js,py,cpp,solidity&theme=dark&perline=6"/>
+      <img src="https://skillicons.dev/icons?i=python,c,ts,js,cpp,go&theme=dark&perline=7"/>
     </td>
   </tr>
   <tr>
-    <td><b>Smart Contracts</b></td>
+    <td><b>Frontend</b></td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Move%20%7C%20Sui-6B21A8?style=flat-square&logoColor=white"/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,figma&theme=dark&perline=7"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,django,bun,fastapi&theme=dark&perline=7"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgresql,supabase,mongodb,mysql,sqlite,redis&theme=dark&perline=7"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Blockchain / Web3</b></td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/solidity-3C3C3D?style=flat-square&labelColor=3C3C3D"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white&labelColor=3C3C3D"/>
       &nbsp;
       <img src="https://img.shields.io/badge/Cadence%20%7C%20Flow-00EF8B?style=flat-square&logoColor=black"/>
       &nbsp;
-      <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Move%20%7C%20Sui-6B21A8?style=flat-square&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=flat-square&logoColor=black"/>
       &nbsp;
       <img src="https://img.shields.io/badge/Foundry-808080?style=flat-square&logoColor=white"/>
       &nbsp;
-      <img src="https://img.shields.io/badge/Hardhat-F7DF1E?style=flat-square&logoColor=black"/>
+      <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/MetaMask%20SDK-F6851B?style=flat-square&logo=metamask&logoColor=white"/>
+      &nbsp;
+      <img src="https://img.shields.io/badge/OKX-06d02a?style=flat-square&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>Frontend & Web3</b></td>
+    <td><b>DevOps & Infra</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&theme=dark&perline=6"/>
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode,idea&theme=dark&perline=7"/>
     </td>
   </tr>
   <tr>
-    <td><b>Backend & Infra</b></td>
+    <td><b>Monitoring & Network</b></td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,sqlite,docker,linux,git,github&theme=dark&perline=6"/>
+      <img src="https://img.shields.io/badge/Wireshark-3C3C3D?style=flat-square&labelColor=3C3C3D"/>
+      <img src="https://img.shields.io/badge/SigNoz-6B21A8?style=flat-square&logoColor=white"/>    
     </td>
   </tr>
 </table>
 
 </div>
-
----
 
 ## GitHub Metrics
 
@@ -241,11 +267,7 @@ I'm a **Web3 Protocol Engineer** and **Systems Security Researcher** building au
 
 </p>
 
-<div align="center">
-  <br>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Aaditya1273&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
-  <br>
+
   </div>
 
   <p><br></p>
