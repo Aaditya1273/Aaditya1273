@@ -24,11 +24,17 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm a **Web3 Protocol Engineer** and **Systems Security Researcher** building autonomous financial primitives, Move smart contracts, and agentic AI workflows. Active open-source contributor to security toolchains (**Metasploit Framework**) and GSoC 2026 applicant targeting network layer protocol analysis (**Certificate & Kerberos Ticket Trace**).
+I build production-grade AI systems and Web3 infrastructure.
 
-- 🛠 **Core Stack:** Move (Sui/OneChain), Cadence (Flow), Go, TypeScript, Python, C++, Solidity
-- 🛡 **Security:** Low-Level ASN.1 Protocol Auditing, Kerberos Validation, Smart Contract Security
-- 🤖 **AI Engineering:** Multi-Agent Autonomous Execution, Tool-Calling Pipelines
+My work focuses on autonomous agents, AI system building, DeFi protocols, Solidity & Move smart contracts, Security Researcher, and modern full-stack applications.
+
+I enjoy building systems that are secure, scalable, and useful. 
+
+And have Active open-source contributor to security toolchains (**Metasploit Framework**) and GSoC 2026 applicant targeting network layer protocol analysis (**Certificate & Kerberos Ticket Trace**).
+
+-  **Core Stack:** Move (Sui/OneChain), Cadence (Flow), Go, TypeScript, Python, C++, Solidity
+-  **Security:** Low-Level ASN.1 Protocol Auditing, Kerberos Validation, Smart Contract Security
+-  **AI Engineering:** Multi-Agent Autonomous Execution, Tool-Calling Pipelines
 
 </td>
 <td width="40%" align="center" valign="middle">
