@@ -64,15 +64,17 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
       <a href="https://github.com/Aaditya1273/Flow-Sentinel"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aaditya1273/OneMInd">OneMind</a></h3>
-      <p>Sovereign AI agent framework for autonomous GameFi ecosystems built on Move (OneChain). Enables on-chain AI decision engines with real-time state updates and tokenomics integration.</p>
+      <h3><a href="https://github.com/Aaditya1273/Argus">Argus</a></h3>
+      <p>Web3 security and threat detection engine monitoring smart contract execution logs in real-time to alert on anomalous transactions, reentrancy risks, and exploit patterns.</p>
       <p>
-        <img src="https://img.shields.io/badge/Move-6B21A8?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OneChain-00B4D8?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SigNoz-6B21A8?style=flat-square&logoColor=white"/>    
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Security-DC322F?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web3 Audit-7C3AED?style=flat-square&logoColor=white"/>
       </p>
-      <a href="https://github.com/Aaditya1273/OneMInd"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Aaditya1273/Argus"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
+
   </tr>
 
   <!-- ROW 2 -->
@@ -136,15 +138,14 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
       <a href="https://github.com/Aaditya1273/GhostPay"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aaditya1273/Argus">Argus</a></h3>
-      <p>Web3 security and threat detection engine monitoring smart contract execution logs in real-time to alert on anomalous transactions, reentrancy risks, and exploit patterns.</p>
+      <h3><a href="https://github.com/Aaditya1273/OneMInd">OneMind</a></h3>
+      <p>Sovereign AI agent framework for autonomous GameFi ecosystems built on Move (OneChain). Enables on-chain AI decision engines with real-time state updates and tokenomics integration.</p>
       <p>
-        <img src="https://img.shields.io/badge/SigNoz-6B21A8?style=flat-square&logoColor=white"/>    
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Security-DC322F?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Web3 Audit-7C3AED?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Move-6B21A8?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OneChain-00B4D8?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square&logoColor=white"/>
       </p>
-      <a href="https://github.com/Aaditya1273/Argus"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Aaditya1273/OneMInd"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
