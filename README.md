@@ -64,6 +64,21 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
       <a href="https://github.com/Aaditya1273/Flow-Sentinel"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/RWA-Exchange/RWA-Exchange-OneChain">RWA-Exchange</a></h3>
+      <p>Decentralized marketplace for tokenizing Real-World Assets (RWA). Features fractional ownership, secondary market liquidity, IPFS metadata integration, and Move smart contract compliance.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Move-6B21A8?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      </p>
+      <a href="https://github.com/RWA-Exchange/RWA-Exchange-OneChain"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+
+  </tr>
+
+  <!-- ROW 2 -->
+  <tr>
+        <td width="50%" valign="top">
       <h3><a href="https://github.com/Aaditya1273/Argus">Argus</a></h3>
       <p>Web3 security and threat detection engine monitoring smart contract execution logs in real-time to alert on anomalous transactions, reentrancy risks, and exploit patterns.</p>
       <p>
@@ -73,21 +88,6 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
         <img src="https://img.shields.io/badge/Web3 Audit-7C3AED?style=flat-square&logoColor=white"/>
       </p>
       <a href="https://github.com/Aaditya1273/Argus"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-
-  </tr>
-
-  <!-- ROW 2 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/RWA-Exchange/RWA-Exchange-OneChain">RWA-Exchange</a></h3>
-      <p>Decentralized marketplace for tokenizing Real-World Assets (RWA). Features fractional ownership, secondary market liquidity, IPFS metadata integration, and Move smart contract compliance.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Move-6B21A8?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      </p>
-      <a href="https://github.com/RWA-Exchange/RWA-Exchange-OneChain"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Aaditya1273/GlobalRoute-Navigator">GlobalRoute Navigator</a></h3>
