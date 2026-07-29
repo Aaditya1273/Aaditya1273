@@ -162,7 +162,7 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
       <a href="https://github.com/Aaditya1273/GhostPay"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/LSUDOKO/GlassPay">GlassPay</a></h3>
+      <h3><a href="https://github.com/Aaditya1273/GlassPay">GlassPay</a></h3>
       <p>Scoped, revocable spending cards for AI agents without sharing private keys. Powered by ERC-7710, gasless settlement, Venice AI, and total SigNoz observability.</p>
       <p>
         <img src="https://img.shields.io/badge/SigNoz-6B21A8?style=flat-square&logoColor=white"/>    
@@ -170,7 +170,7 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
         <img src="https://img.shields.io/badge/Security-DC322F?style=flat-square&logoColor=white"/>
         <img src="https://img.shields.io/badge/Web3 Audit-7C3AED?style=flat-square&logoColor=white"/>
       </p>
-      <a href="https://github.com/LSUDOKO/GlassPay"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Aaditya1273/GlassPay"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
