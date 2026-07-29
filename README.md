@@ -90,15 +90,16 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
       <a href="https://github.com/Aaditya1273/Argus"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aaditya1273/GlobalRoute-Navigator">GlobalRoute Navigator</a></h3>
-      <p>AI-driven global shipping & logistics engine optimizing multi-modal routes across air, sea, and land—minimizing cost, time, and CO₂ emissions using real-time heuristic algorithms.</p>
+      <h3><a href="https://github.com/LSUDOKO/GlassPay">GlassPay</a></h3>
+      <p>Scoped, revocable spending cards for AI agents without sharing private keys. Powered by ERC-7710, gasless settlement, Venice AI, and total SigNoz observability.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI%20Optimization-00ADD8?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SigNoz-6B21A8?style=flat-square&logoColor=white"/>    
+        <img src="https://img.shields.io/badge/Stripe-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Security-DC322F?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web3 Audit-7C3AED?style=flat-square&logoColor=white"/>
       </p>
-      <a href="https://github.com/Aaditya1273/GlobalRoute-Navigator"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
+      <a href="https://github.com/LSUDOKO/GlassPay"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>    
   </tr>
 
   <!-- ROW 3 (NEW) -->
@@ -114,14 +115,14 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
       <a href="https://github.com/Aaditya1273/One-SIP"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/notwen123/ONE-CLASH-FIGHTERS">ONE-CLASH-FIGHTERS</a></h3>
-      <p>Retro Web3 arcade fighting game built with Next.js and Move. Features on-chain fighter state synchronization, direct REST API leaderboard integration, and Move smart contract combat resolution.</p>
+      <h3><a href="https://github.com/Aaditya1273/GlobalRoute-Navigator">GlobalRoute Navigator</a></h3>
+      <p>AI-driven global shipping & logistics engine optimizing multi-modal routes across air, sea, and land—minimizing cost, time, and CO₂ emissions using real-time heuristic algorithms.</p>
       <p>
-        <img src="https://img.shields.io/badge/Move-6B21A8?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%20Optimization-00ADD8?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       </p>
-      <a href="https://github.com/notwen123/ONE-CLASH-FIGHTERS"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/Aaditya1273/GlobalRoute-Navigator"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 
@@ -138,19 +139,6 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
       <a href="https://github.com/Aaditya1273/GhostPay"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Aaditya1273/OneMInd">OneMind</a></h3>
-      <p>Sovereign AI agent framework for autonomous GameFi ecosystems built on Move (OneChain). Enables on-chain AI decision engines with real-time state updates and tokenomics integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Move-6B21A8?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OneChain-00B4D8?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square&logoColor=white"/>
-      </p>
-      <a href="https://github.com/Aaditya1273/OneMInd"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-    </td>
-  </tr>
-  <!-- ROW 5 (NEW) -->
-  <tr>
-    <td width="50%" valign="top">
       <h3><a href="https://github.com/Aaditya1273/Agent.md">Agent.md</a></h3>
       <p>The Open Registry for AI Engineering Presets with Configure any AI coding model with production-ready engineering standards in seconds.</p>
       <p>
@@ -161,16 +149,28 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
       </p>
       <a href="https://github.com/Aaditya1273/GhostPay"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
+  </tr>
+  <!-- ROW 5 (NEW) -->
+  <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/LSUDOKO/GlassPay">GlassPay</a></h3>
-      <p>Scoped, revocable spending cards for AI agents without sharing private keys. Powered by ERC-7710, gasless settlement, Venice AI, and total SigNoz observability.</p>
+      <h3><a href="https://github.com/notwen123/ONE-CLASH-FIGHTERS">ONE-CLASH-FIGHTERS</a></h3>
+      <p>Retro Web3 arcade fighting game built with Next.js and Move. Features on-chain fighter state synchronization, direct REST API leaderboard integration, and Move smart contract combat resolution.</p>
       <p>
-        <img src="https://img.shields.io/badge/SigNoz-6B21A8?style=flat-square&logoColor=white"/>    
-        <img src="https://img.shields.io/badge/Stripe-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Security-DC322F?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Web3 Audit-7C3AED?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Move-6B21A8?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       </p>
-      <a href="https://github.com/LSUDOKO/GlassPay"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/notwen123/ONE-CLASH-FIGHTERS"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Aaditya1273/OneMInd">OneMind</a></h3>
+      <p>Sovereign AI agent framework for autonomous GameFi ecosystems built on Move (OneChain). Enables on-chain AI decision engines with real-time state updates and tokenomics integration.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Move-6B21A8?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SUI-00B4D8?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Aaditya1273/OneMInd"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
 </table>
