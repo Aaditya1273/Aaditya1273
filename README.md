@@ -148,6 +148,31 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
       <a href="https://github.com/Aaditya1273/OneMInd"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
+  <!-- ROW 5 (NEW) -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Aaditya1273/Agent.md">Agent.md</a></h3>
+      <p>The Open Registry for AI Engineering Presets with Configure any AI coding model with production-ready engineering standards in seconds.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Claude-ED993B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Agnet.md-AF4BDE?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/IDE Extension-FF007A?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Aaditya1273/GhostPay"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/LSUDOKO/GlassPay">GlassPay</a></h3>
+      <p>Scoped, revocable spending cards for AI agents without sharing private keys. Powered by ERC-7710, gasless settlement, Venice AI, and total SigNoz observability.</p>
+      <p>
+        <img src="https://img.shields.io/badge/SigNoz-6B21A8?style=flat-square&logoColor=white"/>    
+        <img src="https://img.shields.io/badge/Stripe-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Security-DC322F?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Web3 Audit-7C3AED?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/LSUDOKO/GlassPay"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
 </table>
 </div>
 
