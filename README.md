@@ -182,7 +182,7 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
 
 ## Open Source & Security Contributions 
 
-### Metasploit Framework (Rapid7) & Open-Source Ecosystem ( Hactoberfest2025 and  GSoC2026)
+### Metasploit Framework (Rapid7) & Open-Source Ecosystem (Hacktoberfest 2025 & GSoC 2026)
 
 > Active open-source contributor focused on network security, protocol trace validation, framework tooling, and core CMS maintenance.
 
@@ -194,8 +194,10 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
 | Repository / Project | PR / Issue | Description | Status |
 |:---|:---:|---|:---:|
 | **django-cms / django-cms** | **[#8412](https://github.com/django-cms/django-cms/pull/8412)** | Co-authored core fix/feature for `django-cms` ecosystem (earned *Pair Extraordinaire*) | **Merged** 🟢 |
-| **rapid7 / metasploit-framework** | **[#21024](https://github.com/rapid7/metasploit-framework/pull/21024)** | Refactored SSL certificate validation logic in JSON-RPC transport module | **Merged** 🟢 |
-| **rapid7 / metasploit-framework** | **[#20999](https://github.com/rapid7/metasploit-framework/pull/20999)** | Cleaned up obsolete persistence modules to streamline framework maintainability | **Merged** 🟢 |
+| **rapid7 / metasploit-framework** | **[#21024](https://github.com/rapid7/metasploit-framework/pull/21024)** | Fixed `msfrpcd` JSON-RPC SSL certificate check logic when SSL is disabled | **Merged** 🟢 |
+| **rapid7 / metasploit-framework** | **[#20999](https://github.com/rapid7/metasploit-framework/pull/20999)** | Removed obsolete legacy `windows/local/persistence` module in favor of registry persistence | **Merged** 🟢 |
+| **rapid7 / metasploit-framework** | **[#20618](https://github.com/rapid7/metasploit-framework/pull/20618)** | Fixed `unsupported token: 169` error during MS SQL Server 2022 stored procedure execution | **Merged** 🟢 |
+| **rapid7 / metasploit-framework** | **[#20617](https://github.com/rapid7/metasploit-framework/pull/20617)** | Added `OptArray` datastore option type for handling discrete array values in module options | **Merged** 🟢 |
 | **Kerberos ASN.1 Validation** | **Bug Report** | Identified and reported critical bounds exception during ASN.1 element parsing | *Reported* 🛡️ |
 
 </details>
