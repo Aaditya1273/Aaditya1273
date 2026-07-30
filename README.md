@@ -186,8 +186,8 @@ And have Active open-source contributor to security toolchains (**Metasploit Fra
 
 > Active open-source contributor focused on network security, protocol trace validation, framework tooling, and core CMS maintenance.
 
-<details open>
-<summary><b>View Contributions & Merged Pull Requests</b></summary>
+<details>
+<summary><b>View all merged Pull Requests</b></summary>
 
 <br/>
 
